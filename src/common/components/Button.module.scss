@@ -1,0 +1,16 @@
+.button {
+    border: none;
+    border-radius: 20px;
+    padding: 5px 10px;
+    cursor: pointer;
+
+    &-light {
+        background-color: white;
+        color: #101920;
+    }
+
+    &-dark {
+        background-color: #101920;
+        color: white;
+    }
+}
